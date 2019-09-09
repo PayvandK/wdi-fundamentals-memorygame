@@ -15,6 +15,7 @@ p {
 	font-family: "Droid Serif", Serif;
 	line-height: 26px;
 	font-size: 18px;
+	display: inline;
 }
 a {
 	text-decoration: none;
